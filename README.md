@@ -1,3 +1,4 @@
+# NEW VERSION WITH MODERN WAY TO ATTACK <br> [https://github.com/vominht/BOT-DDoS-TELEGRAM-V2]
 # UPDATE
 Update 26/08/2023
 - Add check tool to check information of website, ip
